@@ -1,9 +1,9 @@
 // Sample product data (Replace with your API data or fetch)
 const products = [
-    { id: 1, name: 'Product 1', category: 'Category 1', price: 100, image: 'https://via.placeholder.com/200', description: 'This is a description of Product 1.' },
-    { id: 2, name: 'Product 2', category: 'Category 2', price: 150, image: 'https://via.placeholder.com/200', description: 'This is a description of Product 2.' },
-    { id: 3, name: 'Product 3', category: 'Category 3', price: 200, image: 'https://via.placeholder.com/200', description: 'This is a description of Product 3.' },
-    { id: 4, name: 'Product 4', category: 'Category 4', price: 250, image: 'https://via.placeholder.com/200', description: 'This is a description of Product 4.' },
+    { id: 1, name: 'Product 1', category: 'Category 1', price: 100,  description: 'This is a description of Product 1.' },
+    { id: 2, name: 'Product 2', category: 'Category 2', price: 150, description: 'This is a description of Product 2.' },
+    { id: 3, name: 'Product 3', category: 'Category 3', price: 200,  description: 'This is a description of Product 3.' },
+    { id: 4, name: 'Product 4', category: 'Category 4', price: 250,  description: 'This is a description of Product 4.' },
   ];
   
   // Function to create product cards dynamically
